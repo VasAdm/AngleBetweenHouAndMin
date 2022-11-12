@@ -1,0 +1,26 @@
+E:\Cloud Drive\NextCloud\Материалы\Programming\AngleBetweenHouAndMin\AngleBetweenHouAndMin\bin\Debug\netcoreapp3.1\AngleBetweenHouAndMin.exe
+E:\Cloud Drive\NextCloud\Материалы\Programming\AngleBetweenHouAndMin\AngleBetweenHouAndMin\bin\Debug\netcoreapp3.1\AngleBetweenHouAndMin.deps.json
+E:\Cloud Drive\NextCloud\Материалы\Programming\AngleBetweenHouAndMin\AngleBetweenHouAndMin\bin\Debug\netcoreapp3.1\AngleBetweenHouAndMin.runtimeconfig.json
+E:\Cloud Drive\NextCloud\Материалы\Programming\AngleBetweenHouAndMin\AngleBetweenHouAndMin\bin\Debug\netcoreapp3.1\AngleBetweenHouAndMin.runtimeconfig.dev.json
+E:\Cloud Drive\NextCloud\Материалы\Programming\AngleBetweenHouAndMin\AngleBetweenHouAndMin\bin\Debug\netcoreapp3.1\AngleBetweenHouAndMin.dll
+E:\Cloud Drive\NextCloud\Материалы\Programming\AngleBetweenHouAndMin\AngleBetweenHouAndMin\bin\Debug\netcoreapp3.1\AngleBetweenHouAndMin.pdb
+E:\Cloud Drive\NextCloud\Материалы\Programming\AngleBetweenHouAndMin\AngleBetweenHouAndMin\obj\Debug\netcoreapp3.1\AngleBetweenHouAndMin.csproj.CoreCompileInputs.cache
+E:\Cloud Drive\NextCloud\Материалы\Programming\AngleBetweenHouAndMin\AngleBetweenHouAndMin\obj\Debug\netcoreapp3.1\AngleBetweenHouAndMin.AssemblyInfoInputs.cache
+E:\Cloud Drive\NextCloud\Материалы\Programming\AngleBetweenHouAndMin\AngleBetweenHouAndMin\obj\Debug\netcoreapp3.1\AngleBetweenHouAndMin.AssemblyInfo.cs
+E:\Cloud Drive\NextCloud\Материалы\Programming\AngleBetweenHouAndMin\AngleBetweenHouAndMin\obj\Debug\netcoreapp3.1\AngleBetweenHouAndMin.dll
+E:\Cloud Drive\NextCloud\Материалы\Programming\AngleBetweenHouAndMin\AngleBetweenHouAndMin\obj\Debug\netcoreapp3.1\AngleBetweenHouAndMin.pdb
+E:\Cloud Drive\NextCloud\Материалы\Programming\AngleBetweenHouAndMin\AngleBetweenHouAndMin\obj\Debug\netcoreapp3.1\AngleBetweenHouAndMin.genruntimeconfig.cache
+E:\Cloud Drive\NextCloud\Материалы\Programming\AngleBetweenHouAndMin\AngleBetweenHouAndMin\obj\Debug\netcoreapp3.1\AngleBetweenHouAndMin.csprojAssemblyReference.cache
+C:\Users\groom\source\repos\C#\AngleBetweenHouAndMin\AngleBetweenHouAndMin\bin\Debug\netcoreapp3.1\AngleBetweenHouAndMin.exe
+C:\Users\groom\source\repos\C#\AngleBetweenHouAndMin\AngleBetweenHouAndMin\bin\Debug\netcoreapp3.1\AngleBetweenHouAndMin.deps.json
+C:\Users\groom\source\repos\C#\AngleBetweenHouAndMin\AngleBetweenHouAndMin\bin\Debug\netcoreapp3.1\AngleBetweenHouAndMin.runtimeconfig.json
+C:\Users\groom\source\repos\C#\AngleBetweenHouAndMin\AngleBetweenHouAndMin\bin\Debug\netcoreapp3.1\AngleBetweenHouAndMin.runtimeconfig.dev.json
+C:\Users\groom\source\repos\C#\AngleBetweenHouAndMin\AngleBetweenHouAndMin\bin\Debug\netcoreapp3.1\AngleBetweenHouAndMin.dll
+C:\Users\groom\source\repos\C#\AngleBetweenHouAndMin\AngleBetweenHouAndMin\bin\Debug\netcoreapp3.1\AngleBetweenHouAndMin.pdb
+C:\Users\groom\source\repos\C#\AngleBetweenHouAndMin\AngleBetweenHouAndMin\obj\Debug\netcoreapp3.1\AngleBetweenHouAndMin.csproj.AssemblyReference.cache
+C:\Users\groom\source\repos\C#\AngleBetweenHouAndMin\AngleBetweenHouAndMin\obj\Debug\netcoreapp3.1\AngleBetweenHouAndMin.AssemblyInfoInputs.cache
+C:\Users\groom\source\repos\C#\AngleBetweenHouAndMin\AngleBetweenHouAndMin\obj\Debug\netcoreapp3.1\AngleBetweenHouAndMin.AssemblyInfo.cs
+C:\Users\groom\source\repos\C#\AngleBetweenHouAndMin\AngleBetweenHouAndMin\obj\Debug\netcoreapp3.1\AngleBetweenHouAndMin.csproj.CoreCompileInputs.cache
+C:\Users\groom\source\repos\C#\AngleBetweenHouAndMin\AngleBetweenHouAndMin\obj\Debug\netcoreapp3.1\AngleBetweenHouAndMin.dll
+C:\Users\groom\source\repos\C#\AngleBetweenHouAndMin\AngleBetweenHouAndMin\obj\Debug\netcoreapp3.1\AngleBetweenHouAndMin.pdb
+C:\Users\groom\source\repos\C#\AngleBetweenHouAndMin\AngleBetweenHouAndMin\obj\Debug\netcoreapp3.1\AngleBetweenHouAndMin.genruntimeconfig.cache
